@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Combinatorial_Mathematics",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "A1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A1-Debug-a2ad0d988ef95d215730.json",
+					"name" : "A1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A2-Debug-4be40eed1f60835e863a.json",
+					"name" : "A2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "A3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-A3-Debug-566440dc7e4af25b58bf.json",
+					"name" : "A3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B1-Debug-148bc1660ccceed86f40.json",
+					"name" : "B1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "B2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-B2-Debug-875b543d11bafb54728b.json",
+					"name" : "B2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C1-Debug-e0058559072844f9fdd4.json",
+					"name" : "C1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C3-Debug-e5017270f7862f38ac25.json",
+					"name" : "C3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "C4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-C4-Debug-ca49443dbec262d75c35.json",
+					"name" : "C4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D1-Debug-3d44820cfab209e204fd.json",
+					"name" : "D1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D2-Debug-8436418db04e8f4068fc.json",
+					"name" : "D2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "D3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D3-Debug-112ef90f9caf3edc9206.json",
+					"name" : "D3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Code/Combinatorial Mathematics/cmake-build-debug",
+		"source" : "E:/Code/Combinatorial Mathematics"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
